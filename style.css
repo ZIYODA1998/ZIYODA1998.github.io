@@ -1,0 +1,27 @@
+body {
+    background-color:#000000;
+}
+ #myHeader {
+    background-color:#FFD700;
+    color: #000000;
+    padding: 40px;
+    text-align: center;
+}
+body {
+   color:#8B008B;
+}
+p.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+<p class="sansserif"><h1 id="myHeader"> Akhmedova Ziyodakhon </h1></p>
+h1 {
+    font-size:40x;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    font-size:20;
+}
